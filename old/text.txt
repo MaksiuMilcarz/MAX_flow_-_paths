@@ -1,0 +1,17 @@
+Aggregate instead of trucking:
+- MAKE IT A PARAMETER
+- CREATE PARAMETERS DICT: min transition times, max window, conncetions (set of sets), objective weights for later.
+
+LHR,EMA,120,1200000
+STN,LHR,120,1200000
+
+LTN,LHR,120,1200000
+
+ 
+
+HKG,CAN,60,1200000
+SZX,HKG,60,1200000
+ 
+ 
+DOH,BAH,60,1200000
+BAH,DOH,60,1200000
